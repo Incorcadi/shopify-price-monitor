@@ -1,0 +1,25 @@
+# venv / caches
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# IDE
+.vscode/
+.idea/
+
+# build / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# local outputs
+outputs/
+*.db
+
+# OS
+.DS_Store
+Thumbs.db

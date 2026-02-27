@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Coffee Beans",
+      "handle": "coffee-beans",
+      "images": [
+        {
+          "src": "https://cdn.example.com/coffee.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "id": 101,
+          "title": "250g",
+          "sku": "CB-250",
+          "price": "12.00",
+          "compare_at_price": "15.00",
+          "available": true
+        },
+        {
+          "id": 102,
+          "title": "1kg",
+          "sku": "CB-1K",
+          "price": "35.00",
+          "compare_at_price": null,
+          "available": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Tea Box",
+      "handle": "tea-box",
+      "images": [
+        {
+          "src": "https://cdn.example.com/tea.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "id": 201,
+          "title": "Standard",
+          "sku": null,
+          "price": "9.99",
+          "compare_at_price": null,
+          "available": true
+        }
+      ]
+    }
+  ]
+}

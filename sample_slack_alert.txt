@@ -1,0 +1,7 @@
+Example Slack message (what a client sees):
+
+Price monitor: example.myshopify.com
+
+NEW: Coffee Beans (250g) — 12.0 USD — https://example.myshopify.com/products/coffee-beans
+PRICE: Coffee Beans (250g) 12.0 → 10.0 USD — https://example.myshopify.com/products/coffee-beans
+STOCK: Coffee Beans (250g) in_stock → out_of_stock — https://example.myshopify.com/products/coffee-beans
